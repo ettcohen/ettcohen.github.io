@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Lukas Delgado-Prieto"
+title: "Ethan Cohen"
 ---
  
-#### [Ph.D. Candidate in Economics, UC3M](http://economics.uc3m.es/personal/delgado-prieto/)
+#### Research Assistant at the Federal Reserve Board
 
 ### Hello, welcome to my personal webpage! 
 
