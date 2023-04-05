@@ -12,7 +12,8 @@ title: "Ethan Cohen"
  
 <p align="left" > 
 I am a research assistant at the Federal Reserve Board of Governors, in the Monetary Affairs Division. Before that, I completed a MA in Economics and Politics at the University of Edinburgh. 
- 
+</p>
+<p align="left" > 
  My research interests are in Macroeconomics, Labor, Monetary, Urban/Spatial Economics, and Market Structure.
 </p>
 
