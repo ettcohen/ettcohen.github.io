@@ -1,3 +1,6 @@
+
+Assorted etc.
+
 <ul>
   {% for post in site.posts %}
     <ul>
