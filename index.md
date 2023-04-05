@@ -11,9 +11,6 @@ title: "Ethan Cohen"
 
  
 <p align="left" > 
-I am a 5th-year Ph.D. student at UC3M broadly interested in labor economics and applied microeconomics. My current research projects focus on questions related to immigration, minimum wages, and imperfect labor markets. I visited the Economics Department at UC Berkeley in the Fall of 2022. I did my bachelor's and master's degree in Economics at Universidad de Los Andes in Colombia.
+I am a research assistant at the Federal Reserve Board of Governors, in the Monetary Affairs Division. Before that, I completed a MA in Economics and Politics at the University of Edinburgh. My research interests are in Macroeconomics, Labor, Monetary, Urban/Spatial Economics, and Market Structure.
 </p>
 
- - I am also a researcher at the Institute for Economic Analysis (IAE)-CSIC in Barcelona and a short-term consultant at the World Bank
- - I co-organize the [Junior Economics of Migration Seminar](https://sites.google.com/view/the-economics-of-migration)
- - Contact: [ludelgad@eco.uc3m.es](mailto:ludelgad@eco.uc3m.es)
