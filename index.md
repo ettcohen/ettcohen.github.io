@@ -5,9 +5,9 @@ title: "Ethan Cohen"
  
 #### Research Assistant at the Federal Reserve Board
 
-### Hello, welcome to my personal webpage! 
+<!--- ### Hello, welcome to my personal webpage! -->
 
- <img align="right" width="260" height="250" style="right; padding-left:10px" src="assets/images/IMG_9275.jpeg"> <!--- The padding-left is the one that gives the margin with the text -->
+ <img align="right" width="210" height="250" style="right; padding-left:10px" src="assets/images/IMG_9275.jpeg"> <!--- The padding-left is the one that gives the margin with the text -->
 
  
 <p align="left" > 
