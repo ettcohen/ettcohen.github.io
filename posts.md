@@ -1,3 +1,9 @@
+---
+title: "Blog posts"
+permalink: "/blog/"
+layout: page
+---
+
 <ul>
   {% for post in site.posts %}
     <ul>
