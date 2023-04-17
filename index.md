@@ -18,7 +18,8 @@ I am a research assistant at the Federal Reserve Board of Governors, in the Mone
 <p align="left" > 
  My research interests are in Macroeconomics, Labor, Monetary, Urban/Spatial Economics, and Market Structure.
 </p>
-
+{% include slider_styles.html %}
+{% include slider_scripts.html %}
 {% include slider.html selector="slider1" %}
 
 
