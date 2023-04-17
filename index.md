@@ -2,7 +2,7 @@
 layout: page
 title: "Ethan Cohen"
 image_sliders:
- - example_slider
+ - slider1
 ---
  
 #### Research Assistant at the Federal Reserve Board
