@@ -1,29 +1,44 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-  <meta name="Author" content="{{ page.author | default: site.author | escape }}">
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2022.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px '.AppleSystemUIFontMonospaced'; color: #181a1e; -webkit-text-stroke: #181a1e; background-color: #ffffff}
-    span.s1 {font-kerning: none}
-    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">{% if site.show_frame %} {% else %} {% endif %} {% if site.plugins contains "jekyll-feed" %}{% endif %} {% if page.mathjax or site.mathjax %} {% endif %} {% if site.comments.disqus_shortname and page.layout == "post" %}{% endif %} {% if site.comments.isso_domain and page.layout == "post" %}{% endif %} {% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %} {% if site.navigation %} {% assign pages = site.navigation %} {% else %} {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %} {% endif %}</span></p>
-<p class="p1"><span class="s2"><a href="file:///Users/ethancohen/Documents/github/ettcohen.github.io/_layouts/%7B%7B">{{ site.title | escape }}</a></span><span class="s1"> {% include menu.html menu=pages %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{{ content }} {% if site.external %}</span></p>
-<p class="p1"><span class="s1">{{ site.description | default: site.title }}</span></p>
-<p class="p1"><span class="s1">{% include menu.html menu=site.external %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space"> </span>{% include head.html %}</span></p>
-<p class="p2"><span class="s1">&lt;body&gt;</span></p>
-<p class="p2"><span class="s1">{% include slider_scripts.html %}</span></p>
-<p class="p2"><span class="s1">&lt;/body&gt;</span></p>
-</body>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+<meta charset="{{ site.encoding }}">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="{{ page.author | default: site.author | escape }}">
+<meta name="generator" content="Jekyll v{{ jekyll.version }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+{% if site.show_frame %}
+<link rel="stylesheet" href="{{ "/assets/css/frame.css" | relative_url }}">
+{% else %}
+<link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
+{% endif %}
+{% if site.plugins contains "jekyll-feed" %}<link rel="alternate" href="{{ site.feed.path | default: "/feed.xml" | relative_url }}" type="application/atom+xml" title="{{ site.title }}">{% endif %}
+{% if page.mathjax or site.mathjax %}
+<link rel="stylesheet" href="{{ "/assets/katex/katex.min.css" | relative_url }}">
+<script defer src="{{ "/assets/katex/katex.min.js" | relative_url }}"></script>
+<script defer src="{{ "/assets/katex/contrib/auto-render.min.js" | relative_url }}" onload="renderMathInElement(document.body)"></script>
+{% endif %}
+{% if site.comments.disqus_shortname and page.layout == "post" %}<script src="//{{ site.comments.disqus_shortname }}.disqus.com/embed.js" async></script>{% endif %}
+{% if site.comments.isso_domain and page.layout == "post" %}<script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %}
+{% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
+
+{% if site.navigation %}
+  {% assign pages = site.navigation %}
+{% else %}
+  {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
+{% endif %}
+
+<header>
+  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+  {% include menu.html menu=pages %}
+</header>
+
+{{ content }}
+
+{% if site.external %}
+<footer>
+  <div>{{ site.description | default: site.title }}</div>
+  {% include menu.html menu=site.external %}
+</footer>
+{% endif %}
+
 </html>
