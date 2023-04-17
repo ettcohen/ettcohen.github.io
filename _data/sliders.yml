@@ -16,10 +16,10 @@
   images:
     - src: /assets/images/IMG_20210814_133626.jpg
       alt: Minimum required attributes
-    - data-src: /assets/images/IMG_20210814_133626.jpg
+    - src: /assets/images/IMG_20210814_133626.jpg
       alt: Use data-src for on-demand loading
   settings:
-    height: 400
+    height: 200
     initialHeight:
     maxHeight:
     interval:
