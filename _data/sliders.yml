@@ -8,3 +8,24 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+
+
+- selector: slider1
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/images/IMG_20210814_133626.jpg
+      alt: Minimum required attributes
+    - data-src: /assets/images/IMG_20210814_133626.jpg
+      alt: Use data-src for on-demand loading
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
