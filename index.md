@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Ethan Cohen"
+image_sliders:
+ - example_slider
 ---
  
 #### Research Assistant at the Federal Reserve Board
@@ -16,4 +18,7 @@ I am a research assistant at the Federal Reserve Board of Governors, in the Mone
 <p align="left" > 
  My research interests are in Macroeconomics, Labor, Monetary, Urban/Spatial Economics, and Market Structure.
 </p>
+
+{% include slider.html selector="example_slider" %}
+
 

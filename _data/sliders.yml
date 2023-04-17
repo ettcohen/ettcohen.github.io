@@ -1,7 +1,10 @@
-<!-- Jekyll Ideal Image Slider Include -->
-<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
-<!-- v1.8 -->
-{% if page.image_sliders or layout.image_sliders or page.image_sliders_load_all -%}
-<link rel="stylesheet" href="{{ "/assets/css/slider/ideal-image-slider.css" | relative_url }}">
-<link rel="stylesheet" href="{{ "/assets/css/slider/themes/default.css" | relative_url }}">
-{%- endif -%}
+- selector: example_slider
+  captions: true
+  images:
+    - src: /assets/images/IMG_20210814_133626.jpg
+      alt: image one
+    - src: /assets/images/IMG_20210814_133626.jpg
+      alt: image two
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
