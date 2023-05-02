@@ -17,5 +17,5 @@ I am an incoming Economics PhD student at the University of Minnesota. Before th
 
 My research interests are in Macroeconomics, Labor, and Urban/Spatial Economics. Broadly...
 
-Have a look at my [CV](https://ettcohen.github.io/files/cv/ECohen_CV_2023.pdf) and my [research](https://ettcohen.github.io/research/).
+Have a look at my [CV](https://ettcohen.github.io/files/cv/ethan-cohen-cv.pdf) and my [research](https://ettcohen.github.io/research/).
 
