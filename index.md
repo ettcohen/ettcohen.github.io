@@ -24,5 +24,4 @@ Have a look at my [CV](https://ettcohen.github.io/files/cv/ethan-cohen-cv.pdf) a
 
 <a href="https://www.conftool.com/efa2023/index.php?page=browseSessions&form_session=462" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>European Finance Association, 50th Annual Meeting</i></a>
 
-<a href="https://www.conftool.com/efa2023/index.php?page=browseSessions&form_session=462" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>American Finance Association, 2024 Annual Meeting</i></a>
-
+<a href="https://afajof.org/annual-meeting/" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>American Finance Association, 2024 Annual Meeting</i></a>
