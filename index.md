@@ -20,6 +20,7 @@ My research interests are in Macroeconomics, Labor, and Urban/Spatial Economics.
 Have a look at my [CV](https://ettcohen.github.io/files/cv/ethan-cohen-cv.pdf) and my [research](https://ettcohen.github.io/research/).
 
 
-##**Upcoming**
+## Upcoming
+
 <a href="https://www.conftool.com/efa2023/index.php?page=browseSessions&form_session=462" target="_blank" style="color: blue; text-decoration: underline;text-decoration-style: solid;"><i>European Finance Association, 50th Annual Meeting</i></a>
 
