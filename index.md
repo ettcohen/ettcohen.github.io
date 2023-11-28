@@ -24,4 +24,4 @@ Have a look at my [CV](https://ettcohen.github.io/files/cv/ethan-cohen-cv.pdf) a
 
 <a href="https://www.ecb.europa.eu/pub/conferences/html/20231109_money_markets_conference.en.html" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>ECB 2023 Conference on Money Markets</i></a>
 
-<a href="https://afajof.org/annual-meeting/" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>American Finance Association, 2024 Annual Meeting</i></a>
+<a href="https://afajof.org/management/conference-session.php?s=69" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>American Finance Association, 2024 Annual Meeting</i></a>
