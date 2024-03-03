@@ -4,7 +4,6 @@ permalink: "/research/"
 layout: page
 ---
 
----
 ## Working papers
 
 **Stop Believing In Reserves** with <a href="https://sites.google.com/site/sriyaanbil/home?authuser=0" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Sriya Anbil</i></a>, <a href="https://www.alyssagrayanderson.com" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Alyssa Anderson</i></a>, and <a href="https://sites.google.com/view/rominaruprecht/home?authuser=0" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Romina Ruprecht</i></a> (2023)
@@ -14,7 +13,7 @@ layout: page
 ---
 
 ### Old Pre-PhD Work
-<details><summary></summary>
+<details><summary> </summary>
   
 #### RA Work
 <details><summary>Abstract</summary><p> 
