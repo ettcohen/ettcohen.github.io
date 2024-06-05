@@ -49,3 +49,6 @@ kramdown:
 plugins:
  - jekyll-feed
  - jekyll-jupyter-notebook
+
+gems: 
+  - jekyll-jupyter-notebook
