@@ -36,4 +36,4 @@ comments:
 
 plugins:
  - jekyll-feed
-  - jekyll-jupyter-notebook
+ - jekyll-jupyter-notebook
