@@ -20,8 +20,10 @@ Have a look at my [CV](https://ettcohen.github.io/files/cv/ethan-cohen-cv.pdf) a
 
 {{ jupyter_notebook "python.ipynb" }}
 
-### Upcoming
+### Recent
 
 <a href="https://www.ecb.europa.eu/pub/conferences/html/20231109_money_markets_conference.en.html" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>ECB 2023 Conference on Money Markets</i></a>
 
-<a href="https://afajof.org/management/conference-session.php?s=69" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>American Finance Association, 2024 Annual Meeting</i></a>
+<a href="https://www.aeaweb.org/conference/2024/program/1669?q=eNo1jTEKwzAQBL9cIrZWkRRp9IBAikAKf-CQrziwTkJcJxKE0d8j46SbXdjZHcZmknXphRH2f0TAFcODzHKcAR6Na5p0FyWNQpt76FHxKtTmXCK4Z1ZuVLt75U1id0sltSSnz2Ol_hNJ4pPewp_jtJYyi9sFY3wBHl8wHA,," target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>American Finance Association, 2024 Annual Meeting</i></a>
+
+<a href="https://www.bankofengland.co.uk/events/2024/february/boe-annual-bear-conference-the-prudential-framework" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i> 2024 Annual BEAR research conference: The Prudential Framework</i></a>
