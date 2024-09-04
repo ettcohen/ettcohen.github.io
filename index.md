@@ -13,9 +13,9 @@ title: "Ethan Cohen"
 <img align="right" width="260" height="300" style="right; padding-left:100px" src="assets/images/IMG_20210814_133626.jpg">
 
 
-I am a second-year Economics PhD student at the University of Minnesota. My research interests are broadly in Macro-Finance, Monetary Economics, and 
+I am a second-year Economics PhD student at the University of Minnesota. My research interests are broadly in Macro-Finance, Monetary Economics, and heterogeneous agent models. 
 
-I was a Graduate Research Intern at the Federal Reserve Board of Governors in Summer 2024. Previously, I was a Research Assistant at the Federal Reserve Board of Governors, and completed my MA in Economics and Politics at the University of Edinburgh.
+Previously, I was a Graduate Research Intern at the Federal Reserve Board of Governors in Summer 2024, and before that a Research Assistant at the Federal Reserve Board of Governors.
 
 
 Have a look at my [CV](https://ettcohen.github.io/files/cv/ethan-cohen-cv.pdf) and my [research](https://ettcohen.github.io/research/).
