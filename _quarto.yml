@@ -29,9 +29,11 @@ format:
   html:
     theme: 
       light: cosmo
-      dark: [cosmo, css/dark.scss]
+      #dark: [cosmo, css/dark.scss]
     css: css/styles.css
     toc: false
 
+filters:
+  - auto-dark
 
 
