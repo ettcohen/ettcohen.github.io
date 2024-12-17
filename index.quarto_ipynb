@@ -1,0 +1,58 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"\"\n",
+        "about: \n",
+        "  template: solana\n",
+        "  image: files/images/main.jpg\n",
+        "---\n",
+        "\n",
+        "```{css, echo = FALSE}\n",
+        ".justify {\n",
+        "  text-align: justify !important\n",
+        "}\n",
+        "```\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "::: {.justify}\n",
+        "I am a second-year Economics PhD student at the University of Minnesota. My research interests are broadly in Macro-Finance, Monetary Economics, Search and Matching models, and Computational methods.\n",
+        "\n",
+        "Previously, I was a Graduate Research Intern at the Federal Reserve Board of Governors in Summer 2024, and before that a Research Assistant at the Federal Reserve Board of Governors.\n",
+        "\n",
+        "Have a look at my [**CV**](files/cv/ethan-cohen-cv.pdf) and my [**research**](research.qmd).\n",
+        "\n",
+        "[{{< fa envelope title=\"Email\" >}}](mailto:cohen770@umn.edu) &nbsp;\n",
+        "[{{< fa brands google-scholar title=\"Google Scholar\" >}}](https://scholar.google.com/citations?hl=en&user=CSXtMcQAAAAJ&view_op=list_works&gmla=AFix5MZeG8Ss-qWI_U87S1taxnW8epjh7DKJbPt9z06Ci812SIkzXNUvbVRgBC0GQD4nzwvcYAoqn_jd9xrEcZ4S){target=\"_blank\"} &nbsp; \n",
+        "[{{< fa brands linkedin title=\"Linkedin\" >}}](https://www.linkedin.com/in/e-t-cohen){target=\"_blank\"}  &nbsp;\n",
+        "[{{< fa brands github title=\"Github\" >}}](https://github.com/ettcohen){target=\"_blank\"}\n",
+        ":::\n",
+        "\n",
+        "\n",
+        "### Recent Events\n",
+        "\n",
+        "<a href=\"https://www.ecb.europa.eu/pub/conferences/html/20231109_money_markets_conference.en.html\" target=\"_blank\" style=\"color:#6688ff; text-decoration: underline;text-decoration-style: solid;\"><i>ECB 2023 Conference on Money Markets</i></a>\n",
+        "\n",
+        "<a href=\"https://www.aeaweb.org/conference/2024/program/1669?q=eNo1jTEKwzAQBL9cIrZWkRRp9IBAikAKf-CQrziwTkJcJxKE0d8j46SbXdjZHcZmknXphRH2f0TAFcODzHKcAR6Na5p0FyWNQpt76FHxKtTmXCK4Z1ZuVLt75U1id0sltSSnz2Ol_hNJ4pPewp_jtJYyi9sFY3wBHl8wHA,,\" target=\"_blank\" style=\"color:#6688ff; text-decoration: underline;text-decoration-style: solid;\"><i>American Finance Association, 2024 Annual Meeting</i></a>\n",
+        "\n",
+        "<a href=\"https://www.bankofengland.co.uk/events/2024/february/boe-annual-bear-conference-the-prudential-framework\" target=\"_blank\" style=\"color:#6688ff; text-decoration: underline;text-decoration-style: solid;\"><i> 2024 Annual BEAR research conference: The Prudential Framework</i></a>"
+      ],
+      "id": "9b05e355"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

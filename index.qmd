@@ -4,6 +4,7 @@ about:
   template: solana
   image: files/images/main.jpg
 ---
+
 ::: {#bio}
 I am a second-year Economics PhD student at the University of Minnesota. My research interests are broadly in Macro-Finance, Monetary Economics, Search and Matching models, and Computational methods.
 
