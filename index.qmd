@@ -9,13 +9,14 @@ I am a second-year Economics PhD student at the University of Minnesota. My rese
 
 Previously, I was a Graduate Research Intern at the Federal Reserve Board of Governors in Summer 2024, and before that a Research Assistant at the Federal Reserve Board of Governors.
 
-Have a look at my [CV](files/cv/ethan-cohen-cv.pdf) and my [research](research.qmd).
+Have a look at my [**CV**](files/cv/ethan-cohen-cv.pdf) and my [**research**](research.qmd).
 
 
 ::: {#landing-icons}
-[{{< fa envelope title="envelope" >}}](mailto:cohen770@umn.edu) &nbsp;
-[{{< fa brands google-scholar title="google-scholar" >}}](https://scholar.google.com/citations?hl=en&user=CSXtMcQAAAAJ&view_op=list_works&gmla=AFix5MZeG8Ss-qWI_U87S1taxnW8epjh7DKJbPt9z06Ci812SIkzXNUvbVRgBC0GQD4nzwvcYAoqn_jd9xrEcZ4S){target="_blank"} &nbsp; 
-[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/e-t-cohen){target="_blank"} 
+[{{< fa envelope title="Email" >}}](mailto:cohen770@umn.edu) &nbsp;
+[{{< fa brands google-scholar title="Google Scholar" >}}](https://scholar.google.com/citations?hl=en&user=CSXtMcQAAAAJ&view_op=list_works&gmla=AFix5MZeG8Ss-qWI_U87S1taxnW8epjh7DKJbPt9z06Ci812SIkzXNUvbVRgBC0GQD4nzwvcYAoqn_jd9xrEcZ4S){target="_blank"} &nbsp; 
+[{{< fa brands linkedin title="Linkedin" >}}](https://www.linkedin.com/in/e-t-cohen){target="_blank"}  &nbsp;
+[{{< fa brands github title="Github" >}}](https://github.com/ettcohen){target="_blank"}
 :::
 :::
 

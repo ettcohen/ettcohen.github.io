@@ -22,8 +22,7 @@ website:
   page-footer:
     left: |
       [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/1024px-University_of_Minnesota_Logo.svg.png?20200121234844){fig-alt="UMN" width=65px}](https://cla.umn.edu/economics)
-      University of Minnesota
-
+      <a href="https://cla.umn.edu/economics" style="text-decoration:none">University of Minnesota</a>
 
 format:
   html:
