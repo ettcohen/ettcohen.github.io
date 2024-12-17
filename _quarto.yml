@@ -5,6 +5,7 @@ project:
 
 resources:
     - "files/**"
+    - "css/**"
 
 website:
   title: "Ethan Cohen"
@@ -26,8 +27,10 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      light: cosmo
+      dark: [cosmo, css/dark.scss]
+    css: css/styles.css
     toc: false
 
 
