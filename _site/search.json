@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ethan Cohen",
+    "section": "",
+    "text": "I am a second-year Economics PhD student at the University of Minnesota. My research interests are broadly in Macro-Finance, Monetary Economics, Search and Matching models, and Computational methods.\nPreviously, I was a Graduate Research Intern at the Federal Reserve Board of Governors in Summer 2024, and before that a Research Assistant at the Federal Reserve Board of Governors.\nHave a look at my CV and my research.\n\n         \n\n\n\nRecent Events\nECB 2023 Conference on Money Markets\nAmerican Finance Association, 2024 Annual Meeting\n 2024 Annual BEAR research conference: The Prudential Framework"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Stop Believing In Reserves with Sriya Anbil, Alyssa Anderson, and Romina Ruprecht (2024) Revise & Resubmit at Journal of Finance\n\n\nAbstract\n\nWe present a new effect of quantitative tightening (QT). While QT affects the supply of reserves held by banks, it also affects the supply of money held by non- banks. Using a structural model that we calibrate to the current monetary tightening cycle, we show that the supply of money held by non-banks affects the capacity of the repo market, and constrains the amount the Federal Reserve can shrink its balance sheet during QT. Ignoring non-bank money supply when determining the optimal amount of short-term liquidity provision could lead to a loss of interest rate control by the Federal Reserve."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Stop Believing In Reserves with Sriya Anbil, Alyssa Anderson, and Romina Ruprecht (2024) Revise & Resubmit at Journal of Finance\n\n\nAbstract\n\nWe present a new effect of quantitative tightening (QT). While QT affects the supply of reserves held by banks, it also affects the supply of money held by non- banks. Using a structural model that we calibrate to the current monetary tightening cycle, we show that the supply of money held by non-banks affects the capacity of the repo market, and constrains the amount the Federal Reserve can shrink its balance sheet during QT. Ignoring non-bank money supply when determining the optimal amount of short-term liquidity provision could lead to a loss of interest rate control by the Federal Reserve."
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in progress",
+    "text": "Works in progress"
+  },
+  {
+    "objectID": "index.html#my-research",
+    "href": "index.html#my-research",
+    "title": "Ethan Cohen",
+    "section": "My Research",
+    "text": "My Research\nYou can find more details about my research in the following document:\nResearch Document\nHave a look at my CV and my research.\n\nRecent Events\nECB 2023 Conference on Money Markets\nAmerican Finance Association, 2024 Annual Meeting\n 2024 Annual BEAR research conference: The Prudential Framework"
+  }
+]
