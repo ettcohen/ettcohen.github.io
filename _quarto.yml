@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
 
-
 resources:
     - "files/**"
     - "css/**"
@@ -11,7 +10,6 @@ website:
   title: "Ethan Cohen"
   navbar:
     pinned: true
-
     left:
       - text: "Home"
         href: index.qmd

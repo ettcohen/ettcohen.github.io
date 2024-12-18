@@ -5,8 +5,6 @@ js: const.js
 ---
 ### Some recent things...
 
-\vspace{8em}
-
 ::: {style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); grid-gap: 1em;"}
 
 <figure class="lightbox-item">
