@@ -11,3 +11,96 @@ details {
 .content {
     text-align: left;
 }
+
+.rounded-image {
+    border-radius: 10px; /* Adjust the pixel value to control the roundness */
+    object-fit: cover; /* Optional: ensures images maintain aspect ratio */
+}
+
+/* Gallery grid styling */
+.lightbox-item {
+    position: relative;
+  }
+  
+  .gallery-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .gallery-image:hover {
+    transform: scale(1.05); /* Slight zoom effect on hover */
+  }
+  
+  /* Lightbox modal (hidden by default) */
+  .lightbox-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+  }
+  
+  .lightbox-modal img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 10px;
+  }
+  
+  .lightbox-caption {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    font-size: 1.2em;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Close button */
+  .close-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: transparent;
+    color: white;
+    font-size: 2em;
+    border: none;
+    cursor: pointer;
+  }
+
+
+  .nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s;
+  }
+  
+  .nav-btn:hover {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  
+  .prev-btn {
+    left: 20px;
+  }
+  
+  .next-btn {
+    right: 20px;
+  }
+  

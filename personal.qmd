@@ -1,0 +1,25 @@
+---
+title: "Custom Gallery"
+css: style.css
+---
+#### Some recent things...
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); grid-gap: 1em;"}
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/malaysia_1.jpg" alt="Kuala Lumpur" class="gallery-image" data-caption="Kuala Lumpur">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/malaysia_2.jpg" alt="Batu Cave" class="gallery-image" data-caption="Batu Cave">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/sif_1.jpg" alt="Batu Cave" class="gallery-image" data-caption="Artemonas, Sifnos">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/sif_2.jpg" alt="Batu Cave" class="gallery-image" data-caption="Church of the Seven Martyrs, Kastro">
+</figure>
+
+:::

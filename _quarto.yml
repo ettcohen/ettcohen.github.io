@@ -19,6 +19,8 @@ website:
         href: files/cv/ethan-cohen-cv.pdf
       - text: "Research"
         href: research.qmd
+      - text: "Personal"
+        href: personal.qmd
 
   page-footer:
     left: |
@@ -35,4 +37,6 @@ format:
 filters:
   - auto-dark
 
-
+include-after-body:
+   text: |
+     <script type="application/javascript" src="const.js"></script>
