@@ -27,9 +27,8 @@ website:
 
 format:
   html:
-    theme: 
-      light: cosmo
-      #dark: [cosmo, css/dark.scss]
+    theme: cosmo
+    max-width: 500px
     css: css/styles.css
     toc: false
 
