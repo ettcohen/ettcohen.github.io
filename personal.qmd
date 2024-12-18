@@ -1,6 +1,7 @@
 ---
-title: "Custom Gallery"
+title: ""
 css: style.css
+js: const.js
 ---
 #### Some recent things...
 
