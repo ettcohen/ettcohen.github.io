@@ -71,7 +71,7 @@ js: const.js
 </figure>
 
 <figure class="lightbox-item">
-  <img src="files/images/gallery/puff.jpg" alt="Dyrhólaey Puffins" class="gallery-image" data-caption="Dyrhólaey Puffins">
+  <img src="files/images/gallery/puff2.jpg" alt="Dyrhólaey Puffins" class="gallery-image" data-caption="Dyrhólaey Puffins">
 </figure>
 
 :::
