@@ -3,12 +3,14 @@ title: ""
 css: style.css
 js: const.js
 ---
-#### Some recent things...
+### Some recent things...
+
+\vspace{8em}
 
 ::: {style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); grid-gap: 1em;"}
 
 <figure class="lightbox-item">
-  <img src="files/images/gallery/malaysia_1.jpg" alt="Kuala Lumpur" class="gallery-image" data-caption="Kuala Lumpur">
+  <img src="files/images/gallery/malaysia_1.jpg" alt="Looking to Kuala Lumpur" class="gallery-image" data-caption="Looking to Kuala Lumpur">
 </figure>
 
 <figure class="lightbox-item">
@@ -16,11 +18,81 @@ js: const.js
 </figure>
 
 <figure class="lightbox-item">
-  <img src="files/images/gallery/sif_1.jpg" alt="Batu Cave" class="gallery-image" data-caption="Artemonas, Sifnos">
+  <img src="files/images/gallery/sif_1.jpg" alt="Artemonas, Sifnos" class="gallery-image" data-caption="Artemonas, Sifnos">
 </figure>
 
 <figure class="lightbox-item">
-  <img src="files/images/gallery/sif_2.jpg" alt="Batu Cave" class="gallery-image" data-caption="Church of the Seven Martyrs, Kastro">
+  <img src="files/images/gallery/sif_2.jpg" alt="Church of the Seven Martyrs, Kastro" class="gallery-image" data-caption="Church of the Seven Martyrs, Kastro">
 </figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/white_sands.jpg" alt="White Sands, New Mexico" class="gallery-image" data-caption="White Sands, New Mexico">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/badlands.jpg" alt="Badlands, South Dakota" class="gallery-image" data-caption="Badlands, South Dakota">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/death_valley.jpg" alt="Death Valley, California" class="gallery-image" data-caption="Death Valley, California">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/madon1.jpg" alt="Madonna di Campiglio" class="gallery-image" data-caption="Madonna di Campiglio">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/madon2.jpg" alt="Monte Spinale, looking south" class="gallery-image" data-caption="Monte Spinale, looking south">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/edi3.jpg" alt="Edinburgh from Arthur's Seat" class="gallery-image" data-caption="Edinburgh from Arthur's Seat">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/athens.jpg" alt="Athens" class="gallery-image" data-caption="Athens">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/st.jpg" alt="St Andrews" class="gallery-image" data-caption="St Andrews">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/isola.jpg" alt="Lago d'Iseo from Monte Isola" class="gallery-image" data-caption="Lago d'Iseo from Monte Isola">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/loch.jpg" alt="Ceann Loch, near Kilfinnan" class="gallery-image" data-caption="Ceann Loch, near Kilfinnan">
+</figure>
+
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/Sólheimajökull.jpg" alt="Sólheimajökull" class="gallery-image" data-caption="Sólheimajökull">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/puff.jpg" alt="Dyrhólaey Puffins" class="gallery-image" data-caption="Dyrhólaey Puffins">
+</figure>
+
+:::
+
+
+### In a previous life...
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); grid-gap: 1em;"}
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/L1.jpg" alt="" class="gallery-image" data-caption="">
+</figure>
+
+::: {style="display: flex; flex-direction: column; gap: 0em;"}
+<figure class="lightbox-item">
+  <img src="files/images/gallery/L2.jpg" alt="" class="gallery-image" data-caption="">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/L3.jpg" alt="" class="gallery-image" data-caption="">
+</figure>
+:::
 
 :::
