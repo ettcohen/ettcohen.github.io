@@ -17,6 +17,10 @@ website:
         href: files/cv/ethan-cohen-cv.pdf
       - text: "Research"
         href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Resources"
+        href: resources.qmd
       - text: "Personal"
         href: personal.qmd
 
