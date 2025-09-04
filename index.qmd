@@ -5,9 +5,9 @@ about:
   image: files/images/main.jpg
 ---
 
-I am a second-year Economics PhD student at the University of Minnesota. My research interests are broadly in Macro-Finance, Monetary Economics, Search and Matching models, and Computational methods.
+I am a third-year Economics PhD student at the University of Minnesota, and a Research Analyst at the Federal Reserve Bank of Minneapolis. My research interests are broadly in Macro-Finance, Monetary Economics, Search and Matching models, and Computational methods.
 
-Previously, I was a Graduate Research Intern at the Federal Reserve Board of Governors in Summer 2024, and before that a Research Assistant at the Federal Reserve Board of Governors.
+I was a Graduate Research Intern at the Bank of England in Summer 2025. Before that, I was a Graduate Research Intern at the Federal Reserve Board of Governors in Summer 2024, and before that a Research Assistant at the Federal Reserve Board of Governors.
 
 Have a look at my [**CV**](files/cv/ethan-cohen-cv.pdf) and my [**research**](research.qmd).
 
