@@ -5,7 +5,7 @@ about:
   image: files/images/main.jpg
 ---
 
-I am a third-year Economics PhD student at the <a href="https://cla.umn.edu/about/directory/profile/cohen770" target="_blank" style="text-decoration: underline;text-decoration-style: solid;">University of Minnesota</a>, and a Research Analyst at the <a href="https://www.minneapolisfed.org/economic-research/economists" target="_blank" style="text-decoration: underline;text-decoration-style: solid;">Federal Reserve Bank of Minneapolis</a>.
+I am a third-year Economics PhD student at the <a href="https://cla.umn.edu/about/directory/profile/cohen770" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;">University of Minnesota</a>, and a Research Analyst at the <a href="https://www.minneapolisfed.org/economic-research/graduate-program" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;">Federal Reserve Bank of Minneapolis</a>.
 
 My research interests are broadly in Macro-Finance, Monetary Economics, Search and Matching models, and Computational methods.
 
