@@ -17,6 +17,29 @@ details {
     object-fit: cover; /* Optional: ensures images maintain aspect ratio */
 }
 
+/* Turn footer into a 2-column layout where the right column is centered */
+.quarto-page-footer .nav-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Left column stays left (default) */
+.quarto-page-footer .nav-footer-left {
+  flex: 1;
+  text-align: left;
+  align-items: center;
+}
+
+
+.quarto-page-footer .nav-footer-right {
+  flex: 2;          /* give it more horizontal room */
+  text-align: left;
+  align-items: center;
+  min-width: 300px; /* optional for readability */
+}
+
+
 /* Gallery grid styling */
 .lightbox-item {
     position: relative;
