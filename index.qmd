@@ -11,7 +11,7 @@ My research interests are broadly in Macro-Finance, Monetary Economics, Search a
 
 Previously, I have worked for the Bank of England (where I was a Graduate Research Intern in Summer 2025), as well as the Federal Reserve Board (where I was a Graduate Research Intern in Summer 2024, and before that a Research Assistant).
 
-Have are my [**CV**](files/cv/ethan-cohen-cv.pdf) and my [**research**](research.qmd).
+Here are my [**CV**](files/cv/ethan-cohen-cv.pdf) and my [**research**](research.qmd).
 
 [{{< fa envelope title="Email" >}}](mailto:cohen770@umn.edu) &nbsp;
 [{{< fa brands google-scholar title="Google Scholar" >}}](https://scholar.google.com/citations?hl=en&user=CSXtMcQAAAAJ&view_op=list_works&gmla=AFix5MZeG8Ss-qWI_U87S1taxnW8epjh7DKJbPt9z06Ci812SIkzXNUvbVRgBC0GQD4nzwvcYAoqn_jd9xrEcZ4S){target="_blank"} &nbsp; 
