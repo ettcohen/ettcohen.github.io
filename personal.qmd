@@ -81,7 +81,15 @@ js: const.js
 </figure>
 
 <figure class="lightbox-item">
+  <img src="files/images/gallery/luxem.jpeg" alt="Aussichtsplattform Platz der Nation, Luxembourg" class="gallery-image" data-caption="Aussichtsplattform Platz der Nation, Luxembourg">
+</figure>
+
+<figure class="lightbox-item">
   <img src="files/images/gallery/taipei.jpeg" alt="Taipei from Maokong" class="gallery-image" data-caption="Taipei from Maokong">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/venice.jpeg" alt="Punta della Dogana" class="gallery-image" data-caption="Punta della Dogana">
 </figure>
 
 :::
