@@ -25,6 +25,7 @@ The Bank of England is currently transitioning from a supply-driven to a demand-
 
 ## Works in progress
 
-<a><b>Banking on Concentration</b></a>
+<a><b>Deregulation and the Geography of Bank Competition</b></a>
+
 
 <a><b>Screening by Payment: A Theory of Eviction</b></a> with <a href="https://grahamelewis.github.io" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Graham Lewis (UMN)</i></a>
