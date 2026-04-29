@@ -19,8 +19,8 @@ website:
         href: research.qmd
       - text: "Teaching"
         href: teaching.qmd
-      - text: "Resources"
-        href: resources.qmd
+      # - text: "Resources"
+      #   href: resources.qmd
       - text: "Personal"
         href: personal.qmd
 

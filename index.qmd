@@ -7,7 +7,7 @@ about:
 
 I am a third-year Economics PhD student at the <a href="https://cla.umn.edu/about/directory/profile/cohen770" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;">University of Minnesota</a>, and a Research Analyst at the <a href="https://www.minneapolisfed.org/economic-research/graduate-program" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;">Federal Reserve Bank of Minneapolis</a>.
 
-My research interests are broadly in Macro-Finance, Monetary Economics, Search and Matching models, and Computational methods.
+My research interests are broadly in Macro-Finance, with a current focus on financial intermediation, the industrial organization of banking and financial markets, and how central bank facilities interact with the financial sector.
 
 Previously, I have worked for the Bank of England (where I was a Graduate Research Intern in Summer 2025), as well as the Federal Reserve Board (where I was a Graduate Research Intern in Summer 2024, and before that a Research Assistant).
 
