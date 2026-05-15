@@ -27,5 +27,8 @@ Here are my [**CV**](files/cv/ethan-cohen-cv.pdf) and my [**research**](research
 
 <a href="https://sites.google.com/view/summer-workshop-on-money-2026/program" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>2026 Summer Workshop on Money, Banking, Payments, and Finance </i></a>
 
+<a href="" target="_blank" style="color:#6688ff; text-decoration: underline;text-decoration-style: solid;"><i>12th Research Workshop of the MPC Taskforce on Banking Analysis for Monetary Policy</i></a>
+
+
 
 
