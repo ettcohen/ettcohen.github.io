@@ -8,7 +8,6 @@ link-external-newwindow: true
 ## Working Papers
 
 
-
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4834559"> <b>Beyond Reserves: The Federal Reserve's Balance Sheet and the Repo Market</b></a> with <a href="https://sites.google.com/site/sriyaanbil/home?authuser=0" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Sriya Anbil (Fed)</i></a>, <a href="https://www.alyssagrayanderson.com" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Alyssa Anderson (Fed)</i></a>, and <a href="https://sites.google.com/view/rominaruprecht/home?authuser=0" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Romina Ruprecht (Fed)</i></a> *Revise & Resubmit at **The Journal of Finance***
 <details>
 <summary>Abstract</summary>
@@ -29,3 +28,7 @@ The Bank of England is currently transitioning from a supply-driven to a demand-
 
 
 <a><b>Signaling by Payment: A Theory of Eviction</b></a> with <a href="https://grahamelewis.github.io" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Graham Lewis (UMN)</i></a>
+
+
+<a><b>Depositor Heterogeneity and Bank Market Power</b></a>
+
