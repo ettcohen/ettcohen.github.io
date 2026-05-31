@@ -29,6 +29,3 @@ The Bank of England is currently transitioning from a supply-driven to a demand-
 
 <a><b>Signaling by Payment: A Theory of Eviction</b></a> with <a href="https://grahamelewis.github.io" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Graham Lewis (UMN)</i></a>
 
-
-<a><b>Depositor Heterogeneity and Bank Market Power</b></a>
-
