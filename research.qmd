@@ -4,28 +4,115 @@ toc: false
 link-external-newwindow: true
 ---
 
+<style>
+.pub-block {
+  margin: 1rem 0 1.25rem 0;
+  padding: 0.9rem 1rem;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  background: #fafafa;
+}
+
+.pub-block p {
+  margin: 0.1rem 0;
+  line-height: 1.25;
+}
+
+.pub-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+.pub-links {
+  margin-top: 0.45rem !important;
+}
+
+.pub-block details {
+  margin-top: 0.65rem;
+}
+
+.pub-block summary {
+  cursor: pointer;
+}
+</style>
 
 ## Working Papers
 
+<div class="pub-block">
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4834559"> <b>Beyond Reserves: The Federal Reserve's Balance Sheet and the Repo Market</b></a> with <a href="https://sites.google.com/site/sriyaanbil/home?authuser=0" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Sriya Anbil (Fed)</i></a>, <a href="https://www.alyssagrayanderson.com" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Alyssa Anderson (Fed)</i></a>, and <a href="https://sites.google.com/view/rominaruprecht/home?authuser=0" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Romina Ruprecht (Fed)</i></a> *Revise & Resubmit at **The Journal of Finance***
+<p class="pub-title">
+Beyond Reserves: The Federal Reserve’s Balance Sheet and the Repo Market
+</p>
+
+<p>
+with 
+<a href="https://sites.google.com/site/sriyaanbil/home?authuser=0" target="_blank" rel="noopener noreferrer" style="color: grey; text-decoration: underline; text-decoration-style: solid;"><i>Sriya Anbil (Fed)</i></a>, 
+<a href="https://www.alyssagrayanderson.com" target="_blank" rel="noopener noreferrer" style="color: grey; text-decoration: underline; text-decoration-style: solid;"><i>Alyssa Anderson (Fed)</i></a>, and 
+<a href="https://sites.google.com/view/rominaruprecht/home?authuser=0" target="_blank" rel="noopener noreferrer" style="color: grey; text-decoration: underline; text-decoration-style: solid;"><i>Romina Ruprecht (Fed)</i></a>
+</p>
+
+
+<p class="pub-links">
+[<a href="https://www.federalreserve.gov/econres/feds/beyond-reserves-the-federal-reserves-balance-sheet-and-the-repo-market.htm" target="_blank" rel="noopener noreferrer">FEDS Working Paper</a>]
+[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4834559" target="_blank" rel="noopener noreferrer">SSRN</a>]
+</p>
+
 <details>
 <summary>Abstract</summary>
 We present a new constraint on the size of the Fed’s balance sheet: the supply of money held by non-banks. Calibrating a structural model to the recent monetary tightening cycle, we show that this new constraint implies a larger Federal Reserve balance sheet with more short-term liquidity provision than a balance sheet that considers only bank reserve demand. We argue that ignoring the supply of money held by non-banks could lead to loss of interest rate control by the Federal Reserve.
 </details>
 
-<br>
+</div>
 
-<b>Monetary Policy Transmission with Endogenous Reserve Supply</b> *(draft available upon request)* with <a href="https://www.bankofengland.co.uk/research/researchers/kristina-bluwstein" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Kristina Bluwstein (BoE)</i></a>, <a href="https://scholar.google.com/citations?hl=en&user=5vknXg0AAAAJ&view_op=list_works" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Michael McLeay (BoE)</i></a>, and <a href="https://www.bankofengland.co.uk/research/researchers/jacob-stevens" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Jacob Stevens (BoE)</i></a>
+
+<div class="pub-block">
+
+<p class="pub-title">
+Monetary Policy Transmission with Endogenous Reserve Supply
+</p>
+
+<p>
+with 
+<a href="https://www.bankofengland.co.uk/research/researchers/kristina-bluwstein" target="_blank" rel="noopener noreferrer" style="color: grey; text-decoration: underline; text-decoration-style: solid;"><i>Kristina Bluwstein (BoE)</i></a>, 
+<a href="https://scholar.google.com/citations?hl=en&user=5vknXg0AAAAJ&view_op=list_works" target="_blank" rel="noopener noreferrer" style="color: grey; text-decoration: underline; text-decoration-style: solid;"><i>Michael McLeay (BoE)</i></a>, and 
+<a href="https://www.bankofengland.co.uk/research/researchers/jacob-stevens" target="_blank" rel="noopener noreferrer" style="color: grey; text-decoration: underline; text-decoration-style: solid;"><i>Jacob Stevens (BoE)</i></a>
+</p>
+
+<p>
+<em>Draft available upon request</em>
+</p>
+
 <details>
 <summary>Abstract</summary>
-The Bank of England is currently transitioning from a supply-driven to a demand- driven reserves framework, where most reserves will be borrowed by banks through repurchase (repo) agreements. We build a structural model of the UK financial system with rich interactions between banks and non-bank financial institutions to study how this framework shift affects conventional and unconventional monetary policy transmission. Calibrated to the current quantitative tightening (QT) cycle, the model endogenously produces terminal central bank balance sheet sizes within current estimates of the Preferred Minimum Range of Reserves (PMRR), but suggests that reaching its lower end could generate pressure in secured markets. Conservatively, steady-state reserve balances around £550 billion minimize such pressures. Our quantitative simulations deliver a rule of thumb: each £50 billion reduction in gilt holdings by the central bank raises the secured rate by about 3 basis points and lowers equilibrium reserves by roughly £20 billion.
+The Bank of England is currently transitioning from a supply-driven to a demand-driven reserves framework, where most reserves will be borrowed by banks through repurchase agreements. We build a structural model of the UK financial system with rich interactions between banks and non-bank financial institutions to study how this framework shift affects conventional and unconventional monetary policy transmission. Calibrated to the current quantitative tightening cycle, the model endogenously produces terminal central bank balance sheet sizes within current estimates of the Preferred Minimum Range of Reserves, but suggests that reaching its lower end could generate pressure in secured markets. Conservatively, steady-state reserve balances around £550 billion minimize such pressures. Our quantitative simulations deliver a rule of thumb: each £50 billion reduction in gilt holdings by the central bank raises the secured rate by about 3 basis points and lowers equilibrium reserves by roughly £20 billion.
 </details>
+
+</div>
+
 
 ## Works in progress
 
-<a><b>Deregulation and the Geography of Bank Competition</b></a>
+<div class="pub-block">
+
+<p class="pub-title">
+Deregulation and the Geography of Bank Competition
+</p>
+
+</div>
 
 
-<a><b>Signaling by Payment: A Theory of Eviction</b></a> with <a href="https://grahamelewis.github.io" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: solid;"><i>Graham Lewis (UMN)</i></a>
+
+<div class="pub-block">
+
+<p class="pub-title">
+Signaling by Payment: A Theory of Eviction
+</p>
+
+<p>
+with 
+<a href="https://grahamelewis.github.io" target="_blank" rel="noopener noreferrer" style="color: grey; text-decoration: underline; text-decoration-style: solid;"><i>Graham Lewis (UMN)</i></a>
+</p>
+
+</div>
+
 
