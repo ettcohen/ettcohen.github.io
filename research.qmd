@@ -14,7 +14,7 @@ link-external-newwindow: true
 }
 
 .pub-block p {
-  margin: 0.1rem 0;
+  margin: 0.15rem 0;
   line-height: 1.25;
 }
 
@@ -24,11 +24,11 @@ link-external-newwindow: true
 }
 
 .pub-links {
-  margin-top: 0.45rem !important;
+  margin-top: 0.25rem !important;
 }
 
 .pub-block details {
-  margin-top: 0.65rem;
+  margin-top: 0.25rem;
 }
 
 .pub-block summary {
@@ -41,7 +41,7 @@ link-external-newwindow: true
 <div class="pub-block">
 
 <p class="pub-title">
-Beyond Reserves: The Federal Reserve’s Balance Sheet and the Repo Market
+*Beyond Reserves: The Federal Reserve’s Balance Sheet and the Repo Market*
 </p>
 
 <p>
@@ -57,6 +57,10 @@ with
 [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4834559" target="_blank" rel="noopener noreferrer">SSRN</a>]
 </p>
 
+<p>
+*Revise and Resubmit at **The Journal of Finance***
+</p>
+
 <details>
 <summary>Abstract</summary>
 We present a new constraint on the size of the Fed’s balance sheet: the supply of money held by non-banks. Calibrating a structural model to the recent monetary tightening cycle, we show that this new constraint implies a larger Federal Reserve balance sheet with more short-term liquidity provision than a balance sheet that considers only bank reserve demand. We argue that ignoring the supply of money held by non-banks could lead to loss of interest rate control by the Federal Reserve.
@@ -68,7 +72,7 @@ We present a new constraint on the size of the Fed’s balance sheet: the supply
 <div class="pub-block">
 
 <p class="pub-title">
-Monetary Policy Transmission with Endogenous Reserve Supply
+*Monetary Policy Transmission with Endogenous Reserve Supply*
 </p>
 
 <p>
@@ -95,7 +99,7 @@ The Bank of England is currently transitioning from a supply-driven to a demand-
 <div class="pub-block">
 
 <p class="pub-title">
-Deregulation and the Geography of Bank Competition
+*Deregulation and the Geography of Bank Competition*
 </p>
 
 </div>
@@ -105,7 +109,7 @@ Deregulation and the Geography of Bank Competition
 <div class="pub-block">
 
 <p class="pub-title">
-Signaling by Payment: A Theory of Eviction
+*Signaling by Payment: A Theory of Eviction*
 </p>
 
 <p>
