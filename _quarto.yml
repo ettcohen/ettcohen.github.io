@@ -5,6 +5,11 @@ project:
 resources:
     - "files/**"
     - "css/**"
+    #- "pkgdocs/TikTak/build/**"
+
+render:
+    - "*.qmd"
+    #- "!pkgdocs/**"
 
 website:
   title: "Ethan Cohen"

@@ -92,6 +92,9 @@ js: const.js
   <img src="files/images/gallery/venice.jpeg" alt="Punta della Dogana" class="gallery-image" data-caption="Punta della Dogana">
 </figure>
 
+<figure class="lightbox-item">
+  <img src="files/images/gallery/gerzensee.jpeg" alt="Gerzensee" class="gallery-image" data-caption="Gerzensee">
+</figure>
 :::
 
 

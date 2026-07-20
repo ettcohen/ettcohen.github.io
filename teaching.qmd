@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: ""
 toc: false 
 linestretch: -0.5
 ---

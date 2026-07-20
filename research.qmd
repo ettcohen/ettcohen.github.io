@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 toc: false 
 link-external-newwindow: true
 ---
@@ -28,7 +28,7 @@ link-external-newwindow: true
 }
 
 .pub-block details {
-  margin-top: 0.25rem;
+  margin-top: -0.5rem;
 }
 
 .pub-block summary {
@@ -60,7 +60,6 @@ with
 <p>
 *Revise and Resubmit at **The Journal of Finance***
 </p>
-
 <details>
 <summary>Abstract</summary>
 We present a new constraint on the size of the Fed’s balance sheet: the supply of money held by non-banks. Calibrating a structural model to the recent monetary tightening cycle, we show that this new constraint implies a larger Federal Reserve balance sheet with more short-term liquidity provision than a balance sheet that considers only bank reserve demand. We argue that ignoring the supply of money held by non-banks could lead to loss of interest rate control by the Federal Reserve.
@@ -82,8 +81,9 @@ with
 <a href="https://www.bankofengland.co.uk/research/researchers/jacob-stevens" target="_blank" rel="noopener noreferrer" style="color: grey; text-decoration: underline; text-decoration-style: solid;"><i>Jacob Stevens (BoE)</i></a>
 </p>
 
-<p>
-<em>Draft available upon request</em>
+<p class="pub-links">
+  <em>(Draft available upon request)</em>
+  [<a href="files/research/slides/stfm-slides.pdf" target="_blank">Slides</a>]
 </p>
 
 <details>
@@ -119,4 +119,14 @@ with
 
 </div>
 
+
+<div class="pub-block">
+
+<p class="pub-title">
+
+<a><b>*Depositor Heterogeneity and Bank Market Power*</b></a> 
+</p>
+
+
+</div>
 
