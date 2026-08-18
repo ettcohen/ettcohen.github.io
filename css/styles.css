@@ -8,6 +8,63 @@ details {
     border-radius: 0px
 }
 
+/* Collapsible archive below the current Spotify playlist */
+.playlist-archive {
+    margin: 0.6rem 0 1.5rem;
+    padding: 0;
+    border-top: 1px solid var(--bs-border-color);
+    border-bottom: 1px solid var(--bs-border-color);
+}
+
+.playlist-archive summary {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.75rem 0;
+    font-weight: 600;
+    cursor: pointer;
+    list-style: none;
+}
+
+.playlist-archive summary::-webkit-details-marker {
+    display: none;
+}
+
+.playlist-archive summary::before {
+    content: "+";
+    width: 1rem;
+    font-size: 1.15rem;
+    font-weight: 400;
+    line-height: 1;
+    text-align: center;
+}
+
+.playlist-archive[open] summary::before {
+    content: "−";
+}
+
+.playlist-archive summary:hover {
+    text-decoration: underline;
+}
+
+.playlist-archive-content {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+    padding: 0 0 0.8rem;
+}
+
+.playlist-archive iframe {
+    display: block;
+    width: 100%;
+}
+
+@media (max-width: 600px) {
+    .playlist-archive-content {
+        grid-template-columns: 1fr;
+    }
+}
+
 .content {
     text-align: left;
 }
@@ -126,4 +183,3 @@ details {
   .next-btn {
     right: 20px;
   }
-  
