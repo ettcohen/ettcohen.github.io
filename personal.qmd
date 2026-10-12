@@ -7,12 +7,13 @@ js: const.js
 
 ### What I've been listening to recently...
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0XuoXeiLUCa5tEK9Wdoxxj?utm_source=generator&theme=0&si=a03653d8fa9e40ba" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/79uH6kzD5XKwOMM05OSshB?utm_source=generator&si=dbfbe5e6a6184bec" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <details class="playlist-archive">
 <summary>Past playlists</summary>
 
-<div class="playlist-archive-content">
+<div class="playlist-archive-content" tabindex="0" role="region" aria-label="Past playlists">
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0XuoXeiLUCa5tEK9Wdoxxj?utm_source=generator&theme=0&si=a03653d8fa9e40ba" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/04cWvRmlnEb3yUG3nEUpwQ?utm_source=generator&si=008b861e813c4449" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0fvFJfKA66JzTElqjDnBf1?utm_source=generator&si=d7d94ce23f74473b" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
@@ -101,6 +102,10 @@ js: const.js
 
 <figure class="lightbox-item">
   <img src="files/images/gallery/gerzensee.jpeg" alt="Gerzensee" class="gallery-image" data-caption="Gerzensee">
+</figure>
+
+<figure class="lightbox-item">
+  <img src="files/images/gallery/finland.jpeg" alt="Koivusaari" class="gallery-image" data-caption="Koivusaari">
 </figure>
 :::
 
